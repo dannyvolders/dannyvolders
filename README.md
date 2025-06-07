@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm owner of deeteeo.be, a consultancy firm that specializes in .NET.
+
+Feel free to contact me.
 <!--
 **dannyvolders/dannyvolders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
